@@ -1,8 +1,7 @@
 ### Markdown Example - Code
 
 Ut erat nisl, dignissim et iaculis ac, adipiscing non ipsum. Vivamus ornare hendrerit sapien ut ornare.
-
-    <?php echo("Hello World!"); ?>  
+    <?php echo("Hello World!"); ?>
     multi line is okay?
 
 `<p>Hello Workd!</p>`
